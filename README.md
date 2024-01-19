@@ -7,9 +7,13 @@ Diseases. The objective of the dataset is to diagnostically predict whether a pa
 •	From the data set in the (.csv) File We can find several variables, some of them are independent (several medical predictor variables) and only one target dependent variable (Outcome).
 
 Information about dataset attributes –
+
 •	Pregnancies: To express the Number of pregnancies
+
 •	Glucose: To express the Glucose level in blood
+
 •	BloodPressure: To express the Blood pressure measurement
+
 •	SkinThickness: To express the thickness of the skin
 •	Insulin: To express the Insulin level in blood
 •	BMI: To express the Body mass index
