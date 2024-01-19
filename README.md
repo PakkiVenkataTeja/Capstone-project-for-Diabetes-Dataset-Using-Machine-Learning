@@ -18,7 +18,7 @@ Information about dataset attributes –
 •	SkinThickness: To express the thickness of the skin
 •	Insulin: To express the Insulin level in blood
 •	BMI: To express the Body mass index
-•	DiabetesPedigreeFunction: To express the Diabetes percentage\n
+•	DiabetesPedigreeFunction: To express the Diabetes percentage/n
 •	Age: To express the age
 •	Outcome: To express the final result 1 is Yes and 0 is No
 
